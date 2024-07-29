@@ -24,5 +24,3 @@
     
 </div>
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=KAYANEALEBRANTE&repo=KAYANEALEBRANTE&theme=react)](https://github.com/KayaneAlebrante)
