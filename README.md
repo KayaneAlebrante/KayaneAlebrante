@@ -23,10 +23,6 @@
  
     
 </div>
-    <a href="https://github.com/KayaneAlebrante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/KayaneAlebrante/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=KAYANEALEBRANTE&repo=KAYANEALEBRANTE&theme=react)](https://github.com/KayaneAlebrante)
