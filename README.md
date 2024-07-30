@@ -1,6 +1,7 @@
 # KayaneAlebrante
 
 #### 👩‍🎓Tecnólogo em Desenvolvimento de sistemas | IFPR - Campus União da Vitória
+### 🌱 Atualemnte estou estudando React js
 #### 🟣 Vice Presidente | Empressa Junior Forcetech jr
 
 <div>
