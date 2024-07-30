@@ -7,7 +7,7 @@
   <a href="https://github.com/KayaneAlebrante">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=KayaneAlebrante&show_icons=true&theme=synthwave"/>
 
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaneAlebrante&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaneAlebrante&layout=compact&langs_count=7&theme=synthwave" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
