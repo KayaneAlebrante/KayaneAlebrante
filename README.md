@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/KayaneAlebrante">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=KayaneAlebrante&show_icons=true&theme=grudvbox"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=KayaneAlebrante&show_icons=true&theme=synthwave"/>
 
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaneAlebrante&layout=compact&langs_count=7&theme=react" />
 
