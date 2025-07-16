@@ -10,6 +10,12 @@
 
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaneAlebrante&layout=compact&langs_count=7&theme=synthwave" />
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayanealebrante/kayanealebrante/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayanealebrante/kayanealebrante/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kayanealebrante/kayanealebrante/output/pacman-contribution-graph.svg">
+  </picture>
+
 </div>
  <br>
 <div align="center"> 
