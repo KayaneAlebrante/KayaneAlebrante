@@ -3,7 +3,7 @@
 #### 👩‍🎓 Tecnólogo em Desenvolvimento de sistemas | IFPR - Campus União da Vitória
 #### 🌱 Atualemnte estou estudando ReactJs com Vite, Tailwind e NodeJs com express e Prisma
 #### 👩🏼‍💻 Auxiliar de Programador Visual Gráfico
-#### 🌪️ Diretora de Operações e Formação Empreendedora do Núcleo de Empresas Juniores do Centro-Sul do Paraná
+#### 🌪️ Presidente Executiva e Diretora de Expansão do Núcleo de Empresas Juniores do Centro-Sul do Paraná
 
 <div>
   <a href="https://github.com/KayaneAlebrante">
